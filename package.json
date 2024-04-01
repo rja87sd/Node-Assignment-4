@@ -1,0 +1,12 @@
+{
+  "name": "node-assignment-4-rja87sd",
+  "version": "1.0.0",
+  "description": "Level 3 Week 1 Day 4 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
