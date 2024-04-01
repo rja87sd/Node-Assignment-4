@@ -5,8 +5,8 @@ This is a simple Node.js package that will allow the user to remove duplicate va
 
 ## Installation  
 Use the following command in GitBash:  
-npm i Node-Assignment-4-rja87sd  
+npm i node-assignment-4-rja87sd  
   
 ## Usage  
 To use the package in your code, simply require it at the top of your file using the following line:  
-const arrayUtils = require('array-utilities');  
+const { removeDuplicates, mergeArrays } = require("../../Node-Assignment-4");  
